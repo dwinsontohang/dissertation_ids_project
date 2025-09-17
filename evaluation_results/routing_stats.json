@@ -1,0 +1,30 @@
+{
+  "policy": "complementary",
+  "conf_gate": 0.75,
+  "if_thr_outlier": 0.3890979717674259,
+  "if_thr_inlier": 0.3890979717674259,
+  "n_total": 2303,
+  "n_low_conf": 7,
+  "pct_low_conf": 0.303951367781155,
+  "n_low_inlier": 0,
+  "n_low_outlier": 7,
+  "n_low_midband": 0,
+  "n_low_outlier_escalated_to_unknown": 0,
+  "n_low_outlier_endorsed_attack": 4,
+  "n_low_outlier_kept_benign": 3,
+  "s_conf_quantiles": {
+    "0.01": 0.9,
+    "0.05": 0.99,
+    "0.1": 1.0,
+    "0.25": 1.0,
+    "0.5": 1.0,
+    "0.75": 1.0,
+    "0.9": 1.0,
+    "0.95": 1.0,
+    "0.99": 1.0
+  },
+  "if_score_min_max": [
+    -0.002911754197175709,
+    0.42409167504247963
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "objective": "cost_unknown_only",
+  "val_rows": 2302,
+  "conf_gate": 0.75,
+  "if_complete_threshold": 0.3890979717674259,
+  "if_partial_threshold": 0.3791000720973702,
+  "val_fpr_unknown_only": 0.0,
+  "val_fnr_unknown_only": 0.0,
+  "candidates_complete": [
+    0.301216732583989,
+    0.31983795055730363,
+    0.3359726379040743,
+    0.3475729228338028,
+    0.3890979717674259
+  ],
+  "candidates_partial": [
+    0.1533709160218504,
+    0.24886705355113223,
+    0.2961514207927656,
+    0.3375381821650604,
+    0.3791000720973702
+  ],
+  "gate_range": [
+    0.75,
+    0.9000000000000001
+  ],
+  "min_if_threshold": 0.02
+}

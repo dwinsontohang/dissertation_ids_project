@@ -1,0 +1,6 @@
+,pred:Benign,pred:Brute Force (Hydra),pred:Brute Force (Medusa),pred:Denial of Service (DoS),pred:Unknown/Anomaly
+true:Benign,1109,0,0,0,0
+true:Brute Force (Hydra),0,306,0,0,0
+true:Brute Force (Medusa),1,2,187,0,0
+true:Denial of Service (DoS),0,0,0,305,0
+true:Unknown/Anomaly,0,0,0,0,393

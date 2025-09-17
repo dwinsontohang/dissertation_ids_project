@@ -1,0 +1,33 @@
+{
+  "policy": "complementary",
+  "conf_gate": 0.75,
+  "if_thr_outlier": 0.3890979717674259,
+  "if_thr_inlier": 0.3890979717674259,
+  "n_total": 2303,
+  "routed_pct": 0.303951367781155,
+  "overall_gain_multiclass": {
+    "n": 2303,
+    "fixes": 0,
+    "regress": 0,
+    "net": 0
+  },
+  "overall_gain_unknown_only": {
+    "n": 1109,
+    "fixes": 0,
+    "regress": 0,
+    "net": 0
+  },
+  "routed_gain_multiclass": {
+    "n": 7,
+    "fixes": 0,
+    "regress": 0,
+    "net": 0
+  },
+  "routed_gain_unknown_only": {
+    "n": 2,
+    "fixes": 0,
+    "regress": 0,
+    "net": 0
+  },
+  "notes": "fixes=S wrong -> H right; regress=S right -> H wrong; net=fixes-regress"
+}

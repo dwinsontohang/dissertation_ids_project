@@ -1,0 +1,7 @@
+{
+  "Benign": 0,
+  "Brute Force (Hydra)": 1,
+  "Brute Force (Medusa)": 2,
+  "Denial of Service (DoS)": 3,
+  "Unknown/Anomaly": 4
+}

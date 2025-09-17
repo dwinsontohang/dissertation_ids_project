@@ -1,0 +1,6 @@
+,pred:Benign,pred:Brute Force (Hydra),pred:Brute Force (Medusa),pred:Deniel of Service (DoS),pred:Unknown
+true:Benign,100,0,0,0,0
+true:Brute Force (Hydra),1,14,0,0,0
+true:Brute Force (Medusa),1,0,8,0,0
+true:Deniel of Service (DoS),0,0,0,8,0
+true:Unknown,1,0,0,0,0
