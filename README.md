@@ -28,3 +28,5 @@ This design allows the system to maintain strong performance on known threats wh
 **Sceenshoot Result: Real-Time Hybrid IDS (Supervised & Unsupervised Learning Models)**
 
 <img width="1063" height="426" alt="image" src="https://github.com/user-attachments/assets/0be5411e-f992-4c5b-8daa-09aa14b1e68d" />
+
+The output displays each incoming flow as it is processed, showing the final classification decision, confidence scores from the Random Forest, anomaly scores from the Isolation Forest, and whether the flow was handled directly by the supervised model or routed to the unsupervised layer. When an attacker performs a brute-force attack (right side), the IDS detects it in real-time (left side), as shown by the classifications appearing immediately as the attack traffic flows in.
